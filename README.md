@@ -19,7 +19,10 @@ Here are some ideas to get you started:
  ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=Wordpress&logoColor=%23FFFFFF)
 
 # 🌐 Socials:
-![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=Linkedin&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Behance-%231769FF?style=flat&logo=Behance&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Linkedin-%230A66C2?style=flat&logo=Linkedin&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnatachasanhueza%2F)
+ ![Static Badge](https://img.shields.io/badge/Behance-%231769FF?style=flat&logo=Behance&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.behance.net%2Fnat_sa) ![Static Badge](https://img.shields.io/badge/Dribbble-%23EA4C89?style=flat&logo=Dribbble&logoColor=%23FFFFFF&link=https%3A%2F%2Fdribbble.com%2Fnatysanhueza)
+
+
 
 
 
