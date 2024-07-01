@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💻 Tech Stack:
-![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20Indesign-%23FF3366?style=for-the-badge&logo=AdobeIndesign&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%23%23FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20Indesign-%23FF3366?style=for-the-badge&logo=AdobeIndesign&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%23%23FF61F6?style=for-the-badge&logo=AdobeXD&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=%23FFFFFF)
+
 
 
