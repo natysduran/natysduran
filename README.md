@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💻 Tech Stack:
-![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20Indesign-%23FF3366?style=for-the-badge&logo=AdobeIndesign&logoColor=%23FFFFFF) https://img.shields.io/badge/Adobe%20XD-%23FF61F6?logoSize=%23FFFFF&label=Adobe%20XD
+![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20Indesign-%23FF3366?style=for-the-badge&logo=AdobeIndesign&logoColor=%23FFFFFF)  ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?logoSize=%23FFFFF&label=Adobe%20XD)
  ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=Wordpress&logoColor=%23FFFFFF)
 
 
